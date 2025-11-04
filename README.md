@@ -1,6 +1,7 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src=["https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWk5eGN6cHUxcHJlZmVkeXZjcWgzNWZ4bGRwanNva2dwamdxYm5jbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif) width="100"/>
+  <img src="<img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/8d22f10d-5134-40b5-bc59-fe15a4b6f533" />
+ width="100"/>
 </div>
 <!--
 **soulless123321/soulless123321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
