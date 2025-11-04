@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="<img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/8d22f10d-5134-40b5-bc59-fe15a4b6f533" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BqN25lejd5ZTh6Mm9hbmR2eW03cXZ0MXRmaWsxd2hncWdiaWx0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
  width="100"/>
 </div>
 <!--
